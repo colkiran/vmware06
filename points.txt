@@ -258,6 +258,105 @@ Strings
 -------
 strings are immutable
 
+-------------------------------------------------------------------------------------------------------
+                                        DAY - 02
+-------------------------------------------------------------------------------------------------------
+Data Structures
+---------------
+1. Lists
+2. Dictionary
+3. Tuples
+4. Sets
+
+Lists
+-----
+lists are same as arrays in other tech
+
+array?
+1. arrays are collection of homogenous data
+2. memory allocation is contigious
+
+1. lists are collection of hetrogenous data
+2. memory allocation is not contigious
+3. ordered collection
+4. Subscriptable (indexed)
+5. lists are enclosed in [..]
+
+List Manipulation functions
+---------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+Dictionary
+----------
+1. associative arrays
+2. keys and values => {k1: v1, k2: v2, k3: v3...}
+3. all keys in a dictionary is unique
+4. dictionaries are unordered collection
+5. all dictionaries are enclosed in  { }
+
+Dictionary manipulation function
+--------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+Tuples
+------
+immutable lists
+t = ( )
+count
+index
+
+set
+---
+1. sets are a colletion unique values
+2. sets are unoredered collection
+3. sets are not subscriptable
+4. sets are mutable
+5. sets are enclosed  { } no key values
+
+
+Packages and Modules
+---------------------
+
+Packages - folders which contains modules
+
+modules - libraries in other tech
+python modules does not have any special extension (.py)
+
+packages are compared with classes in OOPS
+
+to create an object of a class we need a constructor =>  __init__()   (dunder init)
+
+to access modules from a package we need to __init__.py file stored in it
+__init__.py file can be empty
+
+
+all modules has to be a part of sys.path
+
+sys.path = [ ]
+
+import mymodule
+---------------
+mymodule.py   =>   mymodule.pyc (bycode) -> will be stored in a folder __pycache__
+
+root path
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python39
+
+create a file with an extension (.pth)
+libpath.pth => C:/Delhi
+
+
+Functions
+---------
+
+
+
+
+
+
+
+
+
 
 
 
