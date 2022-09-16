@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/vmware_package.egg-info/PKG-INFO
+src/vmware_package.egg-info/SOURCES.txt
+src/vmware_package.egg-info/dependency_links.txt
+src/vmware_package.egg-info/top_level.txt

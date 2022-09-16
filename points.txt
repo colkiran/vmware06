@@ -350,51 +350,31 @@ Functions
 ---------
 
 
+lambdas
+--------
+anonymous functions with a single expressions
+
+syntax
+------
+result of expression = lambda var1, var2, var3....: Expression
 
 
+Scope of a variable
+-------------------
+functions
+----------
+1. global
+2. local
+3. non local
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-   	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+OOPS
+----
+1. class
+2. constructor
+3. self
+4. inheritance
+5. abstract class
+6. polymorphism
 
 
 
